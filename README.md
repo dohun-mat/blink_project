@@ -13,7 +13,7 @@ cd tools/code_for_demo
 
 ## 눈깜빡임을 감지하는 서버 모델실행
 ```Shell
-python gogogo.py --download True
+python gogogo.py --download
 ```
 ## local에서 webcam정보를 서버로 전송하는 코드 실행
 ```Shell
