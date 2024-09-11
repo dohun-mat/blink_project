@@ -9,6 +9,8 @@ nstblink_r50.pth파일을 ```Shellpretrained_models/```안에 넣어주세요
 git clone https://github.com/wenzhengzeng/MPEblink
 cp -r configs, demo_video, pretrained_models ./tools/code_for_demo
 cd tools/code_for_demo
+제가 올린 py파일들을 동일한 경로에 복사하세요
+
 ```
 
 ## 눈깜빡임을 감지하는 서버 모델실행
