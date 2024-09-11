@@ -1,6 +1,6 @@
 # blinck project
 
-## MPEblink 오픈소스를 통해 실시간으로 눈깜빡임을 감지하는 프로젝트를 만들었습니다.
+## MPEblink 오픈소스와 fastapi를 통해 webcam으로 실시간 눈깜빡임을 감지하는 프로젝트를 만들었습니다.
 
 ## 준비
 nstblink_r50.pth파일을 ```Shellpretrained_models/```안에 넣어주세요
