@@ -25,3 +25,14 @@ server_togo.ipynb
 
 ## 주의사항!
 서버컴퓨터랑 로컬컴퓨터 포트번호 똑같이 맞춰주기!
+
+## 예시
+데모영상을 참고해주세요
+```Shell
+https://github.com/wenzhengzeng/MPEblink/blob/main/pictures/demo1.gif
+```
+
+### 실제로 테스트 했을때!
+```Shell
+웹캠 1초 영상찍었을때 결과를 내기까지 1.5초정도 걸렸고 정면과 측면에서 결과가 잘 나왔고 얼굴에 아래에서 위로찍을때, 위에서 아래로 찍을때는 결과가 좋지 않았습니다.
+```
